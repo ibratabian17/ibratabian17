@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ibratabian17
-- 👀 I’m interested in Mnecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on my Housw
-- 📫 How to reach me ...
+- 👀 I’m interested in Custom ROM's Android
+- 🌱 I’m currently learning C/C++ & Java
+- 😏 I'm Minecrafter
+- 👩‍💻 I'm Just Dancer
 
-<!---
-ibratabian17/ibratabian17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Ibratabian17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibratabian17&theme=github_dark&show_icons=true)
+
