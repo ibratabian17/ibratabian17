@@ -1,1 +1,21 @@
-Nothing
+Invoke ". tools.sh" from your shell to add the following functions to your environment:
+
+- clonelineagetotarget:       clonelineagetotarget <reponame> <upstreambranch> <targetbranch>
+                              To Clone Repo From LineageOS to Target Organization, enter repo name to <reponame>, and <upstreambranch> is used to take which branch to
+                              use, and <targetbranch> is used for what branch target (default follows env.sh)
+- clonearrowtotarget:         clonearrowtotarget <reponame> <upstreambranch> <targetbranch>
+                              To Clone Repo From ArrowOS to Target Organization, enter repo name to <reponame>, and <upstreambranch> is used to take which branch to
+                              use, and <targetbranch> is used for what branch target (default follows env.sh)
+- clonepixeltotarget:         clonepixeltotarget <reponame> <upstreambranch> <targetbranch>
+                              To Clone Repo From PixelExperience to Target Organization, enter repo name to <reponame>, and <upstreambranch> is used to take which
+                              branch to use, and <targetbranch> is used for what branch target (default follows env.sh)
+- clonegitlabpixeltotarget:   same like clonepixeltotarget, but the upstream is on Gitlab
+- clonegitlabshpixeltotarget: same like clonepixeltotarget, but the upstream is on PixelExperience Self Host 
+- cloneaosptotarget:          cloneaosptotarget <reponame> <upstreambranch> <targetbranch>
+                              To Clone Repo From AOSP to Target Organization, enter repo name to <reponame>, and <upstreambranch> is used to take which branch to
+                              use, and <targetbranch> is used for what branch target (default follows env.sh)
+- cloneaosptotargetloop:      same like cloneaosptotarget, but this repeats several times to avoid push fail
+- getrepolist:                fetch repo list to repost file, from predefined organization
+- deleterepo:                 delete the repo that has been registered in the repost file
+- mergeupstreamrepo:          merge the existing upstream repo to the organization's existing repo
+- migraterepo:                move all repo to new organization
