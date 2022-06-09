@@ -5,6 +5,6 @@
 - 👩‍💻 I'm Just Dancer
 
 ![Ibratabian17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibratabian17&theme=github_dark&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibratabian17&theme=github_dark)](https://github.com/ibratabian17/devices_lenovo_A6020)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibratabian17&theme=github_dark)](https://github.com/ibratabian17)
+[![Top Langs](https://komarev.com/ghpvc/?username=ibratabian17&label=Profile%20Views&color=000000&style=flat)
 
