@@ -1,40 +1,46 @@
+Apologies for the misunderstanding. Here is the revised version with the featured projects listed individually without any grouping.
 
-# Halo, Kawan! Ana @ibratabian17 👋
-### Katanya sih anak fullstek
+# Hey, folks! I'm @ibratabian17 👋
+### Supposedly a full-stack dev
 
 
-###Kata Kata Hari Ini
+### Quote of the Day
   <p>
     <em>“If it ain’t broke, you’re not tweaking hard enough.”</em> 🤫
   </p>
 
 ---
 
-## 👨‍💻 Cerita di Balik Akun Ini
+## 👨‍💻 About Me
 
-Inti dari semua yang ana lakuin itu simpel: **rasa penasaran dan semangat open-source.** Ana suka banget bongkar-pasang software (`Reverse Engineering`) buat ngerti cara kerjanya, lalu dari situ ana coba bikin replikanya atau bahkan membangun **alternatif gratis untuk software berbayar**. Buat ana, teknologi itu harusnya bisa diakses banyak orang.
+The core of everything I do is simple: **curiosity and the open-source spirit.** I love taking software apart (`Reverse Engineering`) to understand how it works. From there, I try to create replicas or even build **free alternatives to paid software**. For me, technology should be accessible to everyone.
 
-Dulu, ana sempat jadi salah satu maintainer **xdroidOSS** untuk device legendaris, Poco F1. Sayangnya, project-nya discontinue sekitar dua tahun lalu, dan ana pribadi mentok di biaya sewa server untuk bisa lanjutin build ROM secara mandiri. Mungkin suatu saat nanti, kalau ada rezeki, si Poco F1 ini bisa nge-build ROM lagi!
+I used to be one of the maintainers for **xdroidOSS** on the legendary Poco F1 device. Unfortunately, the project was discontinued about two years ago, and I personally hit a wall with server rental costs to continue building ROMs independently. Maybe someday, if fortune allows, this Poco F1 will build ROMs again!
 
-Saat ini, ana lagi keracunan dunia **AI & Machine Learning**. Ana lagi coba-coba memahami cara kerjanya dan bermimpi bisa bikin tools cerdas yang berguna. Tentu, ada tantangan...
-
----
-
-### 💻 Alat Tempur Andalan
-
-Semua proyek di sini ana kerjakan dengan setup yang sangat sederhana. Ini bukti kalau niat lebih penting dari spek!
-- **Device Utama:** Xiaomi Poco F1 (The Legend!)
-- **Partner Ngoprek:** Iphone 13 (jir backburner)
-- **PC Kentang Power:** CPU AMD FX-6100 | GPU Nvidia GT 620 | RAM 4GB  
-  - *(Terima kasih tak terhingga untuk Google Colab yang sudah menemani perjuangan training model AI 🙏)*
-
-Mimpi ana simpel: semoga suatu saat bisa upgrade "alat tempur" biar bisa ngubah lebih banyak ide gila jadi proyek nyata tanpa pusing mikirin limitasi.
+Currently, I'm diving deep into the world of **AI & Machine Learning**. I'm trying to understand how it works and dream of creating useful, intelligent tools. Of course, there are challenges...
 
 ---
 
-## 🛠️ Senjata Andalan Ana (Tech Stack)
+### 💻 My Battle Station
 
-### </> Bahasa Pemrograman
+All the projects here are done on a very humble setup. It's proof that passion matters more than specs!
+- **Main Device:** Xiaomi Poco F1 (The Legend!)
+- **Tinkering Partner:** iPhone 13 (yeah, it's on the backburner)
+- **Powered by a Potato PC:** CPU AMD FX-6100 | GPU Nvidia GT 620 | RAM 4GB
+  - *(Endless thanks to Google Colab for being there during the struggle of training AI models 🙏)*
+
+My dream is simple: to one day upgrade my "battle station" so I can turn more crazy ideas into real projects without worrying about limitations.
+
+---
+
+## Portfolio
+You can find my projects at [ibratabian17.prjktla.online](https://ibratabian17.prjktla.online).
+
+---
+
+## 🛠️ My Arsenal (Tech Stack)
+
+### </> Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -56,17 +62,17 @@ Mimpi ana simpel: semoga suatu saat bisa upgrade "alat tempur" biar bisa ngubah 
 <p>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <br><sub>Bismillah, semoga hasilnya nggak seberat MyTelkomsel.</sub>
+  <br><sub>Here's to hoping the final build isn't a bloated mess.</sub>
 </p>
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <br><sub>PC ana sekarat tiap nge-compile ini, tolong...</sub>
+  <br><sub>My PC is dying every time I compile this, send help...</sub>
 </p>
 
 ### 🌐 Frontend (Web)
-> Jujur, ana nggak terlalu jago pakai framework web modern. Jadi andalan utama ya **Pure JavaScript + CSS**. Kedengeran aneh? Banget. Disaat yang lain kesulitan Pure CSS malah gw bisanya itu doang
+> Honestly, I'm not that great with modern web frameworks. So my go-to is **Vanilla JavaScript + CSS**. Sounds weird? Absolutely. While others struggle with plain CSS, it's pretty much all I can do.
 
-### 🛠️ Tools & Platform
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -76,38 +82,37 @@ Mimpi ana simpel: semoga suatu saat bisa upgrade "alat tempur" biar bisa ngubah 
 
 ---
 
-## 🚀 Proyek-Proyek Pilihan
+## 🚀 Featured Projects
 
-*Sebenarnya banyak proyek lain yang belum sempat ana publikasikan, tapi ini beberapa yang bisa ana pamerkan:*
+*I actually have many other projects that I haven't published yet, but here are a few I can show off:*
 
-<details><summary><strong>🎮 Just Dance & Music Tools (Alternatif Gratis)</strong></summary><br>
-  - **[`OpenParty`](https://github.com/ibratabian17/openparty)**<br>
-    *Ngedance tanpa batas! Server alternatif multi-platform buat Just Dance Unlimited. terbesar ana saat ini.*
-  - **[`KPoe`](https://github.com/ibratabian17/KPoe)**<br>
-    *Bikin sesi karaoke kamu makin asik dengan player berbasis Electron yang bisa di-custom liriknya.*
-  - **[`YouLyPlus`](https://github.com/ibratabian17/YouLyPlus)**<br>
-    *Suka nyanyi tapi lirik di YouTube Music nggak sinkron? Tools ini solusinya. Inu*<br>
-</details>
+- **[`OpenParty`](https://github.com/ibratabian17/openparty)**
+  <br>Dance without limits! A multi-platform alternative server for Just Dance Unlimited. My biggest project to date.
 
-<details><summary><strong>⚙️ Backend & Data Processing</strong></summary><br>
-  - **[`YouLyPlus-backend`](https://github.com/ibratabian17/YouLyPlus-backend)**<br>
-    *Backend untuk YouLyPlus. Bertanggung jawab melakukan scraping lirik dari Apple Music, Musixmatch, dan Spotify, lalu mengonversinya ke format yang kompatibel dengan KPoe/YouLyPlus.*<br>
-</details>
+- **[`KPoe`](https://github.com/ibratabian17/KPoe)**
+  <br>Make your karaoke sessions more fun with an Electron-based player featuring customizable lyrics.
 
-<details><summary><strong>📱 Android & ROM Development (Jejak Digital)</strong></summary><br>
-  - **[`SensorStreamer`](https://github.com/ibratabian17/SensorStreamer)**<br>
-    *Fork dari `yaqwsx/SensorStreamer` yang sudah tidak di-update sejak API 26. Proyek ini bertujuan untuk memperbarui dan menjaga fungsionalitas streaming sensor dari perangkat Android.*
-  - **[`device_xiaomi_beryllium`](https://github.com/ibratabian17/device_xiaomi_beryllium)**<br>
-    *Tree LineageOS buat Poco F1. Sisa-sisa perjuangan waktu masih aktif build ROM.*
-  - **[`device_lenovo_A6020`](https://github.com/ibratabian17/device_lenovo_A6020)**<br>
-    *Eksperimen bawa Android 11 ke Lenovo A6020. Karena setiap device berhak dapat kesempatan kedua.*
-  - **[`CekRepoAndroid`](https://github.com/ibratabian17/CekRepoAndroid)**<br>
-    *Script simpel buat ngecek status repositori Android. Dibuat karena butuh, dibagikan biar berguna.*<br>
-</details>
+- **[`YouLyPlus`](https://github.com/ibratabian17/YouLyPlus)**
+  <br>Love singing but the lyrics on YouTube Music are just a plain text? This tool is the solution.
+
+- **[`YouLyPlus-backend`](https://github.com/ibratabian17/YouLyPlus-backend)**
+  <br>The backend for YouLyPlus. Responsible for scraping lyrics from Apple Music, Musixmatch, and Spotify, then converting them into a format compatible with KPoe/YouLyPlus.
+
+- **[`SensorStreamer`](https://github.com/ibratabian17/SensorStreamer)**
+  <br>A fork of `yaqwsx/SensorStreamer` which hasn't been updated since API 26. This project aims to update and maintain the sensor streaming functionality from Android devices.
+
+- **[`device_xiaomi_beryllium`](https://github.com/ibratabian17/device_xiaomi_beryllium)**
+  <br>LineageOS device tree for the Poco F1. Remnants of the struggle from back when I was actively building ROMs.
+
+- **[`device_lenovo_A6020`](https://github.com/ibratabian17/device_lenovo_A6020)**
+  <br>An experiment to bring Android 11 to the Lenovo A6020. Because every device deserves a second chance.
+
+- **[`CekRepoAndroid`](https://github.com/ibratabian17/CekRepoAndroid)**
+  <br>A simple script to check the status of Android repositories. Created out of necessity, shared to be useful.
 
 ---
 
-## 📊 Statistik GitHub Ana
+## 📊 My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibratabian17&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" width="450" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibratabian17&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="350" alt="Top Languages"/>
@@ -115,9 +120,9 @@ Mimpi ana simpel: semoga suatu saat bisa upgrade "alat tempur" biar bisa ngubah 
 
 ---
 
-## 📫 Yuk, Ngobrol!
+## 📫 Let's Connect!
 <p align="center">
-  Punya ide gila, butuh temen diskusi, atau mau kolaborasi? Jangan ragu kontak ana. Pintu selalu terbuka.
+  Have a crazy idea, need someone to brainstorm with, or want to collaborate? Don't hesitate to reach out. My door is always open.
   <br><br>
   <a href="https://t.me/ibratabian17"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:ibratabian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
