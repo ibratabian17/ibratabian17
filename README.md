@@ -1,5 +1,3 @@
-Apologies for the misunderstanding. Here is the revised version with the featured projects listed individually without any grouping.
-
 # Hey, folks! I'm @ibratabian17 👋
 ### Supposedly a full-stack dev
 
