@@ -1,44 +1,43 @@
-# Hey, folks! I'm @ibratabian17 👋
-### Supposedly a full-stack dev
-
+# Hey, I'm @ibratabian17 👋
+### Full-stack dev (sometimes)
 
 ### Quote of the Day
   <p>
-    <em>“If it ain’t broke, you’re not tweaking hard enough.”</em> 🤫
+    <em>"If it ain't broke, you're not tweaking hard enough."</em> 🤫
   </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-The core of everything I do is simple: **curiosity and the open-source spirit.** I love taking software apart (`Reverse Engineering`) to understand how it works. From there, I try to create replicas or even build **free alternatives to paid software**. For me, technology should be accessible to everyone.
+I'm basically driven by two things: curiosity and a strong belief that software should be free. I love reverse engineering stuff to figure out how it actually works, then either building clones or creating free alternatives to paid software. Because honestly, why should good tools cost money?
 
-I used to be one of the maintainers for **xdroidOSS** on the legendary Poco F1 device. Unfortunately, the project was discontinued about two years ago, and I personally hit a wall with server rental costs to continue building ROMs independently. Maybe someday, if fortune allows, this Poco F1 will build ROMs again!
+I used to maintain **xdroidOSS** for the Poco F1—remember that phone? It was legendary. We had a good run but the project died about two years ago, mainly because paying for server time to build ROMs got too expensive. Would be cool to dust that off someday if I had the cash.
 
-Currently, I'm diving deep into the world of **AI & Machine Learning**. I'm trying to understand how it works and dream of creating useful, intelligent tools. Of course, there are challenges...
+Now I'm a maintainer for **Halcyon** (official) and **PixelOS** (unofficial). Still keeping the ROM spirit alive, just in different projects. These days I'm also getting into **AI and machine learning**. Still wrapping my head around how it all works, but I want to build something useful with it. It's harder than I thought though.
 
 ---
 
-### 💻 My Battle Station
+### 💻 My Setup
 
-All the projects here are done on a very humble setup. It's proof that passion matters more than specs!
-- **Main Device:** Xiaomi Poco F1 (The Legend!)
-- **Tinkering Partner:** iPhone 13 (yeah, it's on the backburner)
-- **Powered by a Potato PC:** CPU AMD FX-6100 | GPU Nvidia GT 620 | RAM 4GB
-  - *(Endless thanks to Google Colab for being there during the struggle of training AI models 🙏)*
+Yeah, my "battle station" is pretty weak. But honestly? It doesn't matter that much.
+- **Main Device:** Xiaomi Poco F1 (absolute legend of a phone)
+- **Secondary:** iPhone 13 (mostly collecting dust)
+- **Computer:** AMD FX-6100, Nvidia GT 620, 4GB RAM
+  - *(shoutout to Google Colab for saving my life when training models 🙏)*
 
-My dream is simple: to one day upgrade my "battle station" so I can turn more crazy ideas into real projects without worrying about limitations.
+I'd love to upgrade eventually so I can actually finish all the ideas I have without running out of RAM or storage.
 
 ---
 
 ## Portfolio
-You can find my projects at [ibratabian17.prjktla.online](https://ibratabian17.prjktla.online).
+Check out my work at [ibra.prjktla.my.id](https://ibra.prjktla.my.id).
 
 ---
 
-## 🛠️ My Arsenal (Tech Stack)
+## 🛠️ What I Work With
 
-### </> Programming Languages
+### </> Languages
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -49,28 +48,28 @@ You can find my projects at [ibratabian17.prjktla.online](https://ibratabian17.p
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🚀 Backend
+### Backend Stuff
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
 </p>
 
-### 📱 Mobile & Desktop
+### Mobile & Desktop
 <p>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <br><sub>Here's to hoping the final build isn't a bloated mess.</sub>
+  <br><sub>fingers crossed the final build doesn't turn into a 2GB bloated mess</sub>
 </p>
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <br><sub>My PC is dying every time I compile this, send help...</sub>
+  <br><sub>my computer literally dies when compiling. it's not great.</sub>
 </p>
 
-### 🌐 Frontend (Web)
-> Honestly, I'm not that great with modern web frameworks. So my go-to is **Vanilla JavaScript + CSS**. Sounds weird? Absolutely. While others struggle with plain CSS, it's pretty much all I can do.
+### Web Frontend
+> Honestly not great with fancy frameworks. I just stick to vanilla JS and CSS because it works for me. Yeah it's not trendy but whatever, it gets the job done.
 
-### 🛠️ Tools & Platforms
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -80,37 +79,7 @@ You can find my projects at [ibratabian17.prjktla.online](https://ibratabian17.p
 
 ---
 
-## 🚀 Featured Projects
-
-*I actually have many other projects that I haven't published yet, but here are a few I can show off:*
-
-- **[`OpenParty`](https://github.com/ibratabian17/openparty)**
-  <br>Dance without limits! A multi-platform alternative server for Just Dance Unlimited. My biggest project to date.
-
-- **[`KPoe`](https://github.com/ibratabian17/KPoe)**
-  <br>Make your karaoke sessions more fun with an Electron-based player featuring customizable lyrics.
-
-- **[`YouLyPlus`](https://github.com/ibratabian17/YouLyPlus)**
-  <br>Love singing but the lyrics on YouTube Music are just a plain text? This tool is the solution.
-
-- **[`YouLyPlus-backend`](https://github.com/ibratabian17/YouLyPlus-backend)**
-  <br>The backend for YouLyPlus. Responsible for scraping lyrics from Apple Music, Musixmatch, and Spotify, then converting them into a format compatible with KPoe/YouLyPlus.
-
-- **[`SensorStreamer`](https://github.com/ibratabian17/SensorStreamer)**
-  <br>A fork of `yaqwsx/SensorStreamer` which hasn't been updated since API 26. This project aims to update and maintain the sensor streaming functionality from Android devices.
-
-- **[`device_xiaomi_beryllium`](https://github.com/ibratabian17/device_xiaomi_beryllium)**
-  <br>LineageOS device tree for the Poco F1. Remnants of the struggle from back when I was actively building ROMs.
-
-- **[`device_lenovo_A6020`](https://github.com/ibratabian17/device_lenovo_A6020)**
-  <br>An experiment to bring Android 11 to the Lenovo A6020. Because every device deserves a second chance.
-
-- **[`CekRepoAndroid`](https://github.com/ibratabian17/CekRepoAndroid)**
-  <br>A simple script to check the status of Android repositories. Created out of necessity, shared to be useful.
-
----
-
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibratabian17&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" width="450" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibratabian17&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="350" alt="Top Languages"/>
@@ -118,9 +87,9 @@ You can find my projects at [ibratabian17.prjktla.online](https://ibratabian17.p
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Hit Me Up
 <p align="center">
-  Have a crazy idea, need someone to brainstorm with, or want to collaborate? Don't hesitate to reach out. My door is always open.
+  Got an idea? Wanna bounce stuff off each other? Just reach out, I'm always down to chat.
   <br><br>
   <a href="https://t.me/ibratabian17"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:ibratabian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
