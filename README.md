@@ -1,20 +1,17 @@
 # Hey, I'm @ibratabian17 👋
 ### Full-stack dev (sometimes)
 
-### Quote of the Day
-  <p>
-    <em>"If it ain't broke, you're not tweaking hard enough."</em> 🤫
-  </p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm basically driven by two things: curiosity and a strong belief that software should be free. I love reverse engineering stuff to figure out how it actually works, then either building clones or creating free alternatives to paid software. Because honestly, why should good tools cost money?
+I'm basically driven by two things since when I was on Junior High School: curiosity and a strong belief that software should be free. I love reverse engineering stuff to figure out how it actually works, then either building clones or creating free alternatives to paid software. Because honestly, why should good tools cost money?
 
 I used to maintain **xdroidOSS** for the Poco F1—remember that phone? It was legendary. We had a good run but the project died about two years ago, mainly because paying for server time to build ROMs got too expensive. Would be cool to dust that off someday if I had the cash.
 
 Now I'm a maintainer for **Halcyon** (official) and **PixelOS** (unofficial). Still keeping the ROM spirit alive, just in different projects. These days I'm also getting into **AI and machine learning**. Still wrapping my head around how it all works, but I want to build something useful with it. It's harder than I thought though.
+
+All projects on this account is not maintained anymore due I don't have any PC yet for now.
 
 ---
 
@@ -22,9 +19,7 @@ Now I'm a maintainer for **Halcyon** (official) and **PixelOS** (unofficial). St
 
 Yeah, my "battle station" is pretty weak. But honestly? It doesn't matter that much.
 - **Main Device:** Xiaomi Poco F1 (absolute legend of a phone)
-- **Secondary:** iPhone 13 (mostly collecting dust)
-- **Computer:** AMD FX-6100, Nvidia GT 620, 4GB RAM
-  - *(shoutout to Google Colab for saving my life when training models 🙏)*
+- **Computer:** No any computer yet.
 
 I'd love to upgrade eventually so I can actually finish all the ideas I have without running out of RAM or storage.
 
