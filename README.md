@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm basically driven by two things since when I was on Junior High School: curiosity and a strong belief that software should be free. I love reverse engineering stuff to figure out how it actually works, then either building clones or creating free alternatives to paid software. Because honestly, why should good tools cost money?
+Hello! I'm ibra and I'm from Indonesia, on this account I use my hobby to code, and the projects I work on are 100% have fun (not assignments or school work) and the projects I make here are only to fulfill my desires, like if I really want halcyon android 16 on poco f1 but no ones build it, I have no choice but to build it myself, right? hahaha :(. I can speak Javanese, Indonesian, English, Malay and Arabic (although still basic lol). Besides coding, my hobbies are playing audio in audacity, transcribing song lyrics from various languages, syncing songs, cycling, playing badminton lol and all of that might be related to projects on github
 
 I used to maintain **xdroidOSS** for the Poco F1—remember that phone? It was legendary. We had a good run but the project died about two years ago, mainly because paying for server time to build ROMs got too expensive. Would be cool to dust that off someday if I had the cash.
 
@@ -18,7 +18,7 @@ All projects on this account is not maintained anymore due I don't have any PC y
 ### 💻 My Setup
 
 Yeah, my "battle station" is pretty weak. But honestly? It doesn't matter that much.
-- **Main Device:** Xiaomi Poco F1 (absolute legend of a phone)
+- **Main Device:** Xiaomi Poco F1 (absolute legend of a phone) (Android + Ubuntu Chroot)
 - **Computer:** No any computer yet.
 
 I'd love to upgrade eventually so I can actually finish all the ideas I have without running out of RAM or storage.
