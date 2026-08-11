@@ -19,7 +19,7 @@ All projects on this account is not maintained anymore due I don't have any PC y
 
 Yeah, my "battle station" is pretty weak. But honestly? It doesn't matter that much.
 - **Main Device:** Xiaomi Poco F1 (absolute legend of a phone) (Android + Ubuntu Chroot)
-- **Computer:** No any computer yet.
+- **Computer:** Macbook Air M1 (16GB) (No more phone enslaving)
 
 I'd love to upgrade eventually so I can actually finish all the ideas I have without running out of RAM or storage.
 
